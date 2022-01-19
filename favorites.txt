@@ -1,3 +1,8 @@
 apple 
 orange
 carrot
+
+"Aladdin"
+"The Little Mermaid"
+"Cinderella"
+
